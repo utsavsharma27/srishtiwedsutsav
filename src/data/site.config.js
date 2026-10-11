@@ -84,7 +84,7 @@ export const site = {
       time: "11:00 AM onwards",
       venue: "The Namah Grand, Sector 149, Noida",
       note: "Turmeric, blessings, and joyful memories. Please come in traditional clothes if you wish.",
-      theme: "Dress in lavender, the colour of the day, and let us make the Haldi a little bit purple!",
+      theme: "Lavender!!",
       accent: "marigold",
       mapsUrl: "https://maps.app.goo.gl/kyKHVdrF3FLKGzbR7",
     },
