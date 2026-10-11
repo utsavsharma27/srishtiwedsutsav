@@ -46,7 +46,6 @@ export const site = {
   hero: {
     kickerLines: [
       "With the divine blessings of Grandparents",
-      
       "request your gracious presence for the wedding ceremony of their granddaughter",
     ],
     ctaLabel: "Open the invitation",
