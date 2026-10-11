@@ -33,7 +33,7 @@ export const site = {
     ganeshLeft: "photos/ganesh-left.png",
     ganeshRight: "photos/ganesh-right.png",
   },
-  hashtag: "#UtsavMeinSrishti",
+  hashtag: "#SrishtiMeinUtsav",
   weddingDateIso: "2026-12-11T11:00:00+05:30",
   displayDate: "11 December 2026",
   city: "Noida, Uttar Pradesh",
