@@ -91,7 +91,7 @@ export const site = {
       id: "haldi",
       title: "Haldi",
       date: "11 December 2026",
-      time: "8:30 AM",
+      time: "10:00 AM",
       venue: "The Namah Grand, Sector 149, Noida",
       note: "Turmeric, blessings, and joyful memories. Please come in traditional clothes if you wish.",
       theme: "Dress in lavender, the colour of the day, and let us make the Haldi a little bit purple!",
