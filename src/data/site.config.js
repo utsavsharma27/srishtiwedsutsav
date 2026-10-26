@@ -102,7 +102,7 @@ export const site = {
       id: "lagan",
       title: "Lagan",
       date: "11 December 2026",
-      time: "12:00 PM",
+      time: "12:30 PM",
       venue: "The Namah Grand, Sector 149, Noida",
       note: "The auspicious lagan ceremony, as the two families come together.",
       accent: "emerald",
