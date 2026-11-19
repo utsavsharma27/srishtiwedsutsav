@@ -43,6 +43,12 @@ export const site = {
     labelPause: "Pause music",
   },
   skipLink: "Skip to content",
+  splash: {
+    image: "photos/goddess.png",
+    alt: "Goddess seated on a tiger, blessing the celebration",
+    jai: "Jai Mata Di",
+    prompt: "Scroll up to open the card",
+  },
   hero: {
     kickerLines: [
       "With the divine blessings of Grandparents",
@@ -91,7 +97,7 @@ export const site = {
       id: "haldi",
       title: "Haldi",
       date: "11 December 2026",
-      time: "8:30 AM",
+      time: "10:00 AM",
       venue: "The Namah Grand, Sector 149, Noida",
       note: "Turmeric, blessings, and joyful memories. Please come in traditional clothes if you wish.",
       theme: "Dress in lavender, the colour of the day, and let us make the Haldi a little bit purple!",
@@ -102,7 +108,7 @@ export const site = {
       id: "lagan",
       title: "Lagan",
       date: "11 December 2026",
-      time: "12:00 PM",
+      time: "12:30 PM",
       venue: "The Namah Grand, Sector 149, Noida",
       note: "The auspicious lagan ceremony, as the two families come together.",
       accent: "emerald",
